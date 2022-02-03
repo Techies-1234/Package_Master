@@ -120,6 +120,8 @@ echo " If You Connected To Internet Then  "
 
 echo " YOUR PACKAGES IS INSTALLED SUCCESSFULLY "
 
-echo "𝓐𝓵𝓵 𝓟𝓪𝓬𝓴𝓪𝓰𝓮𝓼 𝓑𝔂 ██ 𝐄𝐑𝐑☢︎𝐑-𝐗-𝐏𝐑☢︎𝐅𝐄𝐒𝐒☢︎𝐑⁩ ██ "
+echo " Script By ERROR-X-PROFESSOR... "
+
+
 
 exit
